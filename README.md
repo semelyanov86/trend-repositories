@@ -14,6 +14,7 @@ If you have file/photo fields, run `php artisan storage:link` command.
 And that's it, go to your domain and login:
 
 Username:	admin@admin.com
+
 Password:	password
 
 
