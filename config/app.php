@@ -123,6 +123,10 @@ return [
 
     'cipher' => 'AES-256-CBC',
 
+    'parser_url' => env('PARSER_URL'),
+
+    'urls_limit' => env('URLS_LIMIT', 10),
+
     /*
     |--------------------------------------------------------------------------
     | Autoloaded Service Providers
