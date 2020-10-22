@@ -17,4 +17,7 @@ Username:	admin@admin.com
 
 Password:	password
 
+To run parser, just type in cli following command:
+`php artisan parser:init`
+
 
